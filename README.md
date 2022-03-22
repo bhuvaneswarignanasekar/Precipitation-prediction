@@ -12,3 +12,24 @@ With First day's data
 - Predict whether there is a chance of precipitation on second day 
 - Predict whether there is a chance of precipitation on third day
 
+**Best tree model for next day prediction**
+
+- Depth 5
+- Criterion Entropy
+
+<div align="center">
+  <a href="https://github.com/bhuvaneswarignanasekar/Precipitation-prediction">
+    <img src="tree_architecture/next day.png" alt="drone">
+  </a>
+  </div>
+
+**Best tree model for day after tomorrow prediction**
+
+- Depth 5
+- Criterion Entropy
+
+<div align="center">
+  <a href="https://github.com/bhuvaneswarignanasekar/Precipitation-prediction">
+    <img src="tree_architecture/3rd day.png" alt="drone">
+  </a>
+  </div>
